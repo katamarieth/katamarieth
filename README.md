@@ -1,4 +1,4 @@
-## Oiii! Eu sou a Kaatherine Mariete Duarte 
+## Oiii! Eu sou a Katherine Mariete Duarte 
  <div>
   <a href="https://github.com/katamarieth">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=katamarieth&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
