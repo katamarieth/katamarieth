@@ -1,4 +1,4 @@
-## Oiii! Eu sou a Katherine Mariete Duarte 
+## Oiii! Eu sou a Katherine Duarte 
  <div>
   <a href="https://github.com/katamarieth">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=katamarieth&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -8,7 +8,7 @@
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Rafa-yoda" height="80" src="https://morganwebtechnology.com/frontend1/page/design.gif">
+  <img align="right" alt="Rafa-yoda" height="80" src="https://www.creativeconcept.co/wp-content/uploads/2017/courses/video/web_design.gif>
 </div>
 
  
