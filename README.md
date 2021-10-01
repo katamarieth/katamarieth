@@ -5,10 +5,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=katamarieth&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="kata-GIF" height="80" src="https://www.creativeconcept.co/wp-content/uploads/2017/courses/video/web_design.gif">
+  <img align="center" alt="Kata-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Kata-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Kataa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="right" alt="Kata-GIF" height="80" src="https://cdn-images-1.medium.com/max/800/1*QOgtnTCyNl-S-_K93pCMlA.gif">
 </div>
 
  
