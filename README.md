@@ -9,7 +9,7 @@
   <img align="center" alt="Kata-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Kataa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    <img align="center" alt="Kataa-Bootstrap" height="30" width="40" src="http://getbootstrap.com.br/docs/4.1/assets/brand/bootstrap-social-logo.png">
-  <img align="right" alt="Kata-GIF" height="80" src="https://cdn-images-1.medium.com/max/800/1*QOgtnTCyNl-S-_K93pCMlA.gif">
+  <img align="right" alt="Kata-GIF" height="80" src="https://i.pinimg.com/originals/b0/14/63/b01463ea74f2d46abb5825c39ef0a2ca.gif">
 </div>
 
  
